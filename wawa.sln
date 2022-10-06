@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40D3D75C-E7F7-4CA2-BE68-01F6C4560010}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGit", "TestGit\TestGit.csproj", "{9D785717-1687-4518-BEBB-109B9CF88A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebDriverTestProject", "FirstWebDriverTestProject\FirstWebDriverTestProject.csproj", "{0A2FFE0C-373F-407D-821E-F4247B7C6523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D785717-1687-4518-BEBB-109B9CF88A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D785717-1687-4518-BEBB-109B9CF88A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D785717-1687-4518-BEBB-109B9CF88A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D785717-1687-4518-BEBB-109B9CF88A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2FFE0C-373F-407D-821E-F4247B7C6523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2FFE0C-373F-407D-821E-F4247B7C6523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2FFE0C-373F-407D-821E-F4247B7C6523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2FFE0C-373F-407D-821E-F4247B7C6523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8009ECAE-0C16-4F38-9A7F-D4F0B10EF8C8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ex2-Ex8.exe
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ex2-Ex8.deps.json
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ex2-Ex8.runtimeconfig.json
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ex2-Ex8.runtimeconfig.dev.json
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ex2-Ex8.dll
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ex2-Ex8.pdb
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.AssemblyInfoInputs.cache
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.AssemblyInfo.cs
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.csproj.CoreCompileInputs.cache
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.csproj.CopyComplete
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.dll
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.pdb
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ex2-Ex8.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\bin\Debug\netcoreapp3.1\TestGit.exe
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\bin\Debug\netcoreapp3.1\TestGit.deps.json
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\bin\Debug\netcoreapp3.1\TestGit.runtimeconfig.json
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\bin\Debug\netcoreapp3.1\TestGit.runtimeconfig.dev.json
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\bin\Debug\netcoreapp3.1\TestGit.dll
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\bin\Debug\netcoreapp3.1\TestGit.pdb
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.AssemblyInfoInputs.cache
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.AssemblyInfo.cs
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.dll
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.pdb
+C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.genruntimeconfig.cache
