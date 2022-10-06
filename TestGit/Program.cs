@@ -10,7 +10,6 @@ namespace TestGit
             Console.WriteLine("My Line!");
 
 
-            
             //comment just for fun
         }
     }
