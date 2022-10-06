@@ -7,10 +7,10 @@ namespace TestGit
         static void Main(string[] args)
         {
 
-            Console.WriteLine("First Line!");
+            Console.WriteLine("My Line!");
 
 
-            Console.WriteLine("Second Line!");
+            C
             //comment just for fun
         }
     }
