@@ -8,6 +8,7 @@ namespace TestGit
         {
 
             Console.WriteLine("First Line!");
+            Console.WriteLine("Second Line!");
         }
     }
 }
