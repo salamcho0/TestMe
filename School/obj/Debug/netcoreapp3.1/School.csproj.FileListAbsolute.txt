@@ -1,0 +1,9 @@
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\obj\Debug\netcoreapp3.1\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School\obj\Debug\netcoreapp3.1\School.pdb
