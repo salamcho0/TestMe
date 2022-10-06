@@ -99,3 +99,10 @@ C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School.NUnit.UnitTests\obj\Debug
 C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.genruntimeconfig.cache
 C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School.NUnit.UnitTests\bin\Debug\netcoreapp3.1\AutoFixture.dll
 C:\Users\Viktor.Baltov\source\repos\ConsoleApp1\School.NUnit.UnitTests\bin\Debug\netcoreapp3.1\Fare.dll
+C:\Users\Viktor.Baltov\source\repos\salamcho0\TestMe\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Viktor.Baltov\source\repos\salamcho0\TestMe\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor.Baltov\source\repos\salamcho0\TestMe\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Viktor.Baltov\source\repos\salamcho0\TestMe\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.AssemblyInfo.cs
+C:\Users\Viktor.Baltov\source\repos\salamcho0\TestMe\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Viktor.Baltov\source\repos\salamcho0\TestMe\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.dll
+C:\Users\Viktor.Baltov\source\repos\salamcho0\TestMe\School.NUnit.UnitTests\obj\Debug\netcoreapp3.1\School.NUnit.UnitTests.pdb

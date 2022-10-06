@@ -4808,11 +4808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktor.Baltov\\source\\repos\\ConsoleApp1\\School.NUnit.UnitTests\\School.NUnit.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Viktor.Baltov\\source\\repos\\salamcho0\\TestMe\\School.NUnit.UnitTests\\School.NUnit.UnitTests.csproj",
       "projectName": "School.NUnit.UnitTests",
-      "projectPath": "C:\\Users\\Viktor.Baltov\\source\\repos\\ConsoleApp1\\School.NUnit.UnitTests\\School.NUnit.UnitTests.csproj",
+      "projectPath": "C:\\Users\\Viktor.Baltov\\source\\repos\\salamcho0\\TestMe\\School.NUnit.UnitTests\\School.NUnit.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Viktor.Baltov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktor.Baltov\\source\\repos\\ConsoleApp1\\School.NUnit.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Viktor.Baltov\\source\\repos\\salamcho0\\TestMe\\School.NUnit.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4833,8 +4833,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Viktor.Baltov\\source\\repos\\ConsoleApp1\\School\\School.csproj": {
-              "projectPath": "C:\\Users\\Viktor.Baltov\\source\\repos\\ConsoleApp1\\School\\School.csproj"
+            "C:\\Users\\Viktor.Baltov\\source\\repos\\salamcho0\\TestMe\\School\\School.csproj": {
+              "projectPath": "C:\\Users\\Viktor.Baltov\\source\\repos\\salamcho0\\TestMe\\School\\School.csproj"
             }
           }
         }

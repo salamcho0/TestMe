@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shfY03v8RY62YpPxNb/iJZOCd6xQC8KICLEhwOzVdCRe+UiqmILydVbP0pGIbRPt1Rxjxovjls11xoFmLMXUGA==",
+  "dgSpecHash": "X59qAP+VR6iSxj/7OCji+wL3w3tEGwWtjqhaEOy6ajRNY5d6WlGd+pNUGRH8wtTOmb/ed9xyY89cK6sbqWKs8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktor.Baltov\\source\\repos\\ConsoleApp1\\School.NUnit.UnitTests\\School.NUnit.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Viktor.Baltov\\source\\repos\\salamcho0\\TestMe\\School.NUnit.UnitTests\\School.NUnit.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktor.Baltov\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\Viktor.Baltov\\.nuget\\packages\\fare\\2.1.1\\fare.2.1.1.nupkg.sha512",
