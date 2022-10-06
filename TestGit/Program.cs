@@ -4,7 +4,7 @@ namespace TestGit
 {
     class Program
     {
-        static void Main(string[])
+        static void Main(string[] args)
         {
 
             int a = 50;

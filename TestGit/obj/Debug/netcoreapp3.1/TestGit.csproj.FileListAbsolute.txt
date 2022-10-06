@@ -11,3 +11,10 @@ C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcorea
 C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.dll
 C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.pdb
 C:\Users\Viktor.Baltov\source\repos\salamch0\TestRepo\TestGit\obj\Debug\netcoreapp3.1\TestGit.genruntimeconfig.cache
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\TestGit\obj\Debug\netcoreapp3.1\TestGit.csproj.AssemblyReference.cache
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\TestGit\obj\Debug\netcoreapp3.1\TestGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\TestGit\obj\Debug\netcoreapp3.1\TestGit.AssemblyInfoInputs.cache
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\TestGit\obj\Debug\netcoreapp3.1\TestGit.AssemblyInfo.cs
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\TestGit\obj\Debug\netcoreapp3.1\TestGit.csproj.CoreCompileInputs.cache
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\TestGit\obj\Debug\netcoreapp3.1\TestGit.dll
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\TestGit\obj\Debug\netcoreapp3.1\TestGit.pdb
