@@ -18,7 +18,7 @@ namespace School.NUnit.UnitTests.CourseTest
             Assert.Throws<ArgumentException>(() => course.LeaveCourse("Viktor"));
         }
 
-        [Test]
+        //[Test]
         //public void ThrowArgumentException_When_ListIsEmpty()
         //{
         //    Course course = new Course();
