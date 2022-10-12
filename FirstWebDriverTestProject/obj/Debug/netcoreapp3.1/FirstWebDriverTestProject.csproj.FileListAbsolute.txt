@@ -196,3 +196,4 @@ C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\FirstWebDriverTestProject\o
 C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\FirstWebDriverTestProject\obj\Debug\netcoreapp3.1\FirstWebDriverTestProject.dll
 C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\FirstWebDriverTestProject\obj\Debug\netcoreapp3.1\FirstWebDriverTestProject.pdb
 C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\FirstWebDriverTestProject\obj\Debug\netcoreapp3.1\FirstWebDriverTestProject.genruntimeconfig.cache
+C:\Users\Viktor.Baltov\Source\Repos\salamcho0\TestMe\FirstWebDriverTestProject\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll

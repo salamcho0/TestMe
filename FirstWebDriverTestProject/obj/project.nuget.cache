@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I+nPDc/bs6K/KD6ekStgCuO7WvGTGKgWjKo9+Pj3r6PZj4SaPOVgmo+zt0Lv+gdLIF6aUm3M+VGHQH95zwjNBw==",
+  "dgSpecHash": "hVVDoLs5hCSK8fFbILJdnnAmdFBRj7EWL9Dw5vMLkLbrLFcFR+k6vSGP2hhJxpDFMH9ysHDBCsbQHf/tct96Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Viktor.Baltov\\Source\\Repos\\salamcho0\\TestMe\\FirstWebDriverTestProject\\FirstWebDriverTestProject.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Viktor.Baltov\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Viktor.Baltov\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\Viktor.Baltov\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\microsoft.net.test.sdk.17.3.2.nupkg.sha512",
     "C:\\Users\\Viktor.Baltov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
