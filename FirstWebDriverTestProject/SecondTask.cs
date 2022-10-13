@@ -68,7 +68,7 @@ namespace FirstWebDriverTestProject
         }
 
         [Test]
-        public void VerifyValidationMessageIsDisplayed_When_WrongEmailAndPasswordAreEnteredAndLoginByEnterb()
+        public void VerifyValidationMessageIsDisplayed_When_WrongEmailAndPasswordAreEnteredAndLoginByEnter()
         {
             _driver.Navigate().GoToUrl("https://login.bluehost.com/hosting/webmail"); //go to the site
             IWebElement acceptCookiesButton = _driver.FindElement(By.CssSelector("#onetrust-accept-btn-handler")); //find the cookie button
@@ -103,6 +103,40 @@ namespace FirstWebDriverTestProject
             Assert.AreEqual("Email address or password is incorrect.", errMsg.Text); //compare the error msg
         }
 
+
+        [Test]
+        public void VerifyValidationMessageIsDisplayed_When_NoEmailAndPasswordAreEnteredAndLoginByClick()
+        {
+            //go to the site
+            _driver.Navigate().GoToUrl("https://login.bluehost.com/hosting/webmail");
+            //find the cookie button
+            IWebElement acceptCookiesButton = _driver.FindElement(By.CssSelector("#onetrust-accept-btn-handler"));
+            //click on the cookie button
+            acceptCookiesButton.Click();
+
+            //find the email input field
+            IWebElement emailField = _driver.FindElement(By.Name("email"));
+            //clear the field
+            emailField.Clear();
+
+            //find the pass input field
+            IWebElement passwordField = _driver.FindElement(By.Name("password")); 
+            //clear the field
+            passwordField.Clear(); 
+            
+
+            //find the login button
+            IWebElement loginButton = _driver.FindElement(By.CssSelector("[value^='Log In']"));
+            //click on the 'Login' button
+            loginButton.Click();
+
+            //create webdriver wait
+            WebDriverWait webDriverWait = new WebDriverWait(_driver, TimeSpan.FromSeconds(3));
+            //wait for the element to be visible and return it to errMsg
+            IWebElement errMsg = webDriverWait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//span[@class='error']")));
+
+            Assert.AreEqual("Email is required.", errMsg.Text); //compare the error msg
+        }
 
     }
 }
